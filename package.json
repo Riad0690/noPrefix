@@ -1,0 +1,14 @@
+{
+  "name": "riad",  // Name of your package
+  "version": "1.0.0",  // Version number
+  "description": "A custom no-prefix command manager",  // Short description of the package
+  "main": "index.js",  // Main entry point (your main JavaScript file)
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"  // Optional test script
+  },
+  "files": [
+    "index.js"  // Include only the compiled or main code file
+  ],
+  "author": "MD RIAD",  // Your name as the author
+  "license": "MIT"  // License type
+}
